@@ -1,0 +1,4 @@
+EconomyEnabled: true
+CostToSetMailbox: 10
+FlatCostToSendMail: 1
+CostPerItemSent: 0.01

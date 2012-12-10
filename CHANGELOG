@@ -1,0 +1,11 @@
+Version 1.0.1
+-------------
+- Compiled with proper version of java
+- Ensured code functions properly with latest version of Bukkit.
+
+Version 1.0.0
+-------------
+- Implemented /setmailbox
+- Implemented /sendmail
+- Implemented economy functions
+- Implements logging system

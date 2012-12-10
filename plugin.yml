@@ -1,0 +1,15 @@
+name: ChestMail
+main: com.gmail.scottmwoodward.chestmail.ChestMail
+version: 1.0.1
+
+commands:
+   setmailbox:
+      description: Designates the selected chest as your personal mail box.
+      usage: /setmailbox
+      permission: chestmail.command.setmailbox
+      permission-message: You do not have permission to use /setmailbox
+   sendmail:
+      description: Sends the item you are holding to the specified player
+      usage: /sendmail <player>
+      permission: chestmail.command.sendmail
+      permission-message: You do not have permission to use /sendmail
